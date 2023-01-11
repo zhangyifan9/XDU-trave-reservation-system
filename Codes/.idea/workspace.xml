@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9310424-51b5-497a-9fb1-f817d6f37e69" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/src/plugins/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/TravelReservationSystem/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TravelReservationSystem/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TravelReservationSystem" />
+  </component>
+  <component name="ProjectId" id="21aMIJaMG2q0eBjuI9ngVnGNCKr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TravelReservationSystem_0.2/Codes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Codefield\TravelReservationSystem_0.1\Codes\TravelReservationSystem\src\components\Customer" />
+      <recent name="F:\Codefield\TravelReservationSystem_0.1\Codes\TravelReservationSystem\src\components" />
+      <recent name="F:\Codefield\TravelReservationSystem_0.1\Codes\TravelReservationSystem\src\assets" />
+      <recent name="F:\Codefield\TravelReservationSystem_0.1\Codes\TRS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Codefield\TravelReservationSystem_0.1\Codes\TravelReservationSystem\src\components\Customer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Codes" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Codes.settings" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\envs\django_env\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="4040" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9310424-51b5-497a-9fb1-f817d6f37e69" name="默认更改列表" comment="" />
+      <created>1638174663561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638174663561</updated>
+      <workItem from="1638174668009" duration="9852000" />
+      <workItem from="1638193192132" duration="5223000" />
+      <workItem from="1638231624627" duration="24730000" />
+      <workItem from="1638353378695" duration="14050000" />
+      <workItem from="1638404599406" duration="23950000" />
+      <workItem from="1638706350157" duration="6836000" />
+      <workItem from="1638774651088" duration="5452000" />
+      <workItem from="1638836465562" duration="98000" />
+      <workItem from="1639186555058" duration="3573000" />
+      <workItem from="1639190857421" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638195443311">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1638195443311" />
+    <state x="1220" y="283" key="FileChooserDialogImpl" timestamp="1639190865911">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2215" y="458" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1080.1890@1920.0.1080.1890" timestamp="1638836522482" />
+    <state x="1220" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1639190865911" />
+    <state width="914" height="213" key="GridCell.Tab.0.bottom" timestamp="1639190547130">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1638791961191" />
+    <state width="1037" height="119" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1080.1890@1920.0.1080.1890" timestamp="1638448473756" />
+    <state width="914" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1639190547130" />
+    <state width="1037" height="284" key="GridCell.Tab.0.bottom/1920.0.1080.1890/0.0.1920.1050@1920.0.1080.1890" timestamp="1638276854949" />
+    <state width="914" height="213" key="GridCell.Tab.0.center" timestamp="1639190547130">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1638791961191" />
+    <state width="1037" height="119" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1080.1890@1920.0.1080.1890" timestamp="1638448473756" />
+    <state width="914" height="213" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1639190547130" />
+    <state width="1037" height="284" key="GridCell.Tab.0.center/1920.0.1080.1890/0.0.1920.1050@1920.0.1080.1890" timestamp="1638276854949" />
+    <state width="914" height="213" key="GridCell.Tab.0.left" timestamp="1639190547130">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1638791961191" />
+    <state width="1037" height="119" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1080.1890@1920.0.1080.1890" timestamp="1638448473756" />
+    <state width="914" height="213" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1639190547130" />
+    <state width="1037" height="284" key="GridCell.Tab.0.left/1920.0.1080.1890/0.0.1920.1050@1920.0.1080.1890" timestamp="1638276854948" />
+    <state width="914" height="213" key="GridCell.Tab.0.right" timestamp="1639190547130">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1323" height="134" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1638791961191" />
+    <state width="1037" height="119" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1080.1890@1920.0.1080.1890" timestamp="1638448473756" />
+    <state width="914" height="213" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1639190547130" />
+    <state width="1037" height="284" key="GridCell.Tab.0.right/1920.0.1080.1890/0.0.1920.1050@1920.0.1080.1890" timestamp="1638276854949" />
+    <state x="722" y="175" width="998" height="709" key="SettingsEditor" timestamp="1638178120425">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="722" y="175" width="998" height="709" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1638178120425" />
+    <state x="2060" y="559" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1638263032883">
+      <screen x="1920" y="0" width="1080" height="1890" />
+    </state>
+    <state x="2060" y="559" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1080.1890/0.0.1920.1050@1920.0.1080.1890" timestamp="1638263032883" />
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1" timestamp="1638180514145">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1638180514145" />
+  </component>
+</project>

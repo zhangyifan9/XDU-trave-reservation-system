@@ -1,0 +1,2 @@
+由于node_moudule过大,本文件不附带.请先按照TravelReservationSystem_0.1\Codes\TravelReservationSystem中的README.md执行命令安装依赖
+
